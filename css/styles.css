@@ -1,0 +1,30 @@
+li {
+  list-style-type: none;
+}
+
+.item {
+  padding: 0;
+}
+
+.product {
+  width: 370px;
+}
+
+.product-actions {
+  padding: 0;
+  display: flex;
+  outline: 3px solid purple;
+  max-width: 100%;
+}
+
+.icon {
+  max-width: 100%;
+}
+
+.product-meta {
+  padding: 15px;
+}
+
+.product-name {
+  margin-bottom: 10px;
+}
